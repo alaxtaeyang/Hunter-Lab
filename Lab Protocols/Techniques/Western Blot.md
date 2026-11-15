@@ -10,7 +10,7 @@
 
 ---
 
-## Part 3: Western Blotting (Transfer)
+## Part 2: Western Blotting (Transfer)
 
 1. **Prepare Transfer Buffer:** Mix **700 mL water**, **200 mL Methanol**, and **100 mL 10X Western blot buffer**.
 2. **Soak Components:** Pour the transfer buffer into a tray and soak:
@@ -31,7 +31,7 @@
 
 ---
 
-## Part 4: Washing and Staining
+## Part 3: Washing and Staining
 
 1. **Block Membrane:** Disassemble the transfer cassette and retrieve the nitrocellulose membrane (the prestained protein ladder should now be visible on the membrane). Block in **PBS-Milk** (**1.5 g milk powder in 50 mL 1X PBS**) for **20 minutes** on a slow shaker.
 2. **Primary Antibody Incubation:** Place the blot into a plastic pouch and heat-seal three sides. Add your primary antibody diluted in PBS-milk, squeeze out excess air, and seal the fourth side. Incubate **overnight at 4°C (cold room)** on a slow shaker.
