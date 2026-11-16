@@ -1,1 +1,2 @@
-[Phenol-Chloroform Method of DNA Extraction: Principle, Steps, Applications](./preparation/phenol-chloroform-method.md)
+##Preparation##
+[PBS/PBST Buffer Solution](./Preparation/PBS, PBST.md)
