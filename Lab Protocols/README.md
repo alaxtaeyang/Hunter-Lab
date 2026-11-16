@@ -13,9 +13,9 @@
 
 [Miniprep](<./Techniques/Plasmid Miniprep.md>)
 
-[Protein Lysis (Small scale)](<./Techniques/Protein Lysis.md>)
-
 ### Baculovirus Shuttle Vector Protocol
 [Miniprep](<./Techniques/Bacmid miniprep.md>)
 
 [Insect Cell Transfection](<./Techniques/Insect transfection.md>)
+
+[Protein Lysis (Small scale)](<./Techniques/Protein Lysis.md>)
