@@ -5,7 +5,7 @@
 
 [SDS PAGE Gel](<./Preparation/SDS-PAGE.md>)
 
-[Autoclaving Protocol (Hunter Lab)](<./Preparation/Autclave.md>)
+[Autoclaving Protocol (Hunter Lab)](<./Preparation/Autoclave.md>)
 
 
 ## Techniques
